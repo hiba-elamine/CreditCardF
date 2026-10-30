@@ -85,8 +85,8 @@ Python · pandas · NumPy · scikit-learn · imbalanced-learn · Matplotlib · S
 
 ## 👤 Author
 
-**Your Name** – [GitHub](https://github.com/hiba-elamine) 
-**Karima** 
+**HIBA ELAMINE** – [GitHub](https://github.com/hiba-elamine) 
+**KARIMA** 
 ## 📄 License
 
 This project is licensed under the MIT License.
